@@ -1,0 +1,7 @@
+ief_table_customize.settings:
+  path: '/admin/structure/display-modes/ief-table'
+  defaults:
+    _title: 'IEF Table View Mode'
+    _form: '\Drupal\ief_table_customize\Form\IefTableCustomizeSettingsForm'
+  requirements:
+    _permission: 'administer display modes'

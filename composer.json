@@ -1,0 +1,9 @@
+{
+  "name": "daoanhdoan/ief_table_customize",
+  "description": "IEF Table view mode: Customize",
+  "type": "drupal-custom-module",
+  "license":"GPL-2.0",
+  "extra": {
+    "installer-name": "ief_table_customize"
+  }
+}

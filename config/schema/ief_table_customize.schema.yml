@@ -1,0 +1,9 @@
+ief_table_customize.settings:
+  type: config_object
+  mapping:
+    entity_types:
+      type: sequence
+      label: 'Types'
+      sequence:
+        type: string
+        label: 'Types'

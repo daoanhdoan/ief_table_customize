@@ -1,0 +1,5 @@
+ief_table_customize.settings:
+  route_name: ief_table_customize.settings
+  title: 'IEF Table View Mode'
+  description: 'Configure settings for IEF Table View Mode.'
+  parent: field_ui.display_mode

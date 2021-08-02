@@ -1,0 +1,5 @@
+name: 'IEF Table view mode: Customize'
+type: module
+core_version_requirement: ^9
+dependencies:
+ - drupal:ief_table_view_mode
