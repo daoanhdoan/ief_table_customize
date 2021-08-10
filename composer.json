@@ -8,6 +8,6 @@
     },
     "require": {
         "drupal/ief_table_view_mode": "*",
-        "inline_entity_form/inline_entity_form": "*"
+        "drupal/inline_entity_form": "*"
     }
 }
